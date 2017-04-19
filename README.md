@@ -1,4 +1,7 @@
-# test coverage for  [network (v0.3.2)](https://github.com/tomas/network#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-network.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-network) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-network.svg)](https://travis-ci.org/npmtest/node-npmtest-network)
+# npmtest-network
+
+#### test coverage for  [network (v0.3.2)](https://github.com/tomas/network#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-network.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-network) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-network.svg)](https://travis-ci.org/npmtest/node-npmtest-network)
+
 #### Cross platform network utilities for Node.js (gateway_ip, MAC address, etc)
 
 [![NPM](https://nodei.co/npm/network.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/network)
